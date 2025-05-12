@@ -1,0 +1,790 @@
+.contact-page-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+   
+  .contact-page-contact-page {
+    width: 1440px;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: var(--dl-color-default-color1);
+  }
+   
+  .contact-page-ellipse3 {
+    top: 749px;
+    left: 302px;
+    width: 190px;
+    height: 24px;
+    position: absolute;
+  }
+   
+  .contact-page-line5 {
+    top: 0px;
+    left: 512px;
+    width: 1024px;
+    height: 1px;
+    position: absolute;
+  }
+   
+  .contact-page-frame19 {
+    gap: 24px;
+    top: 258px;
+    left: 744px;
+    width: 600px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+   
+  .contact-page-frame18 {
+    gap: 24px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+   
+  .contact-page-frame171 {
+    gap: 24px;
+    width: 600px;
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+    justify-content: center;
+  }
+   
+  .contact-page-frame15 {
+    gap: 10px;
+    width: 288px;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+   
+  .contact-page-text10 {
+    color: var(--dl-color-default-color3);
+    height: auto;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+   
+  .contact-page-frame141 {
+    gap: 10px;
+    display: flex;
+    padding: 16px 256px 16px 24px;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background-color: rgba(57, 62, 70, 0.5);
+  }
+   
+  .contact-page-text11 {
+    color: rgba(238, 238, 238, 0.5);
+    height: auto;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+   
+  .contact-page-frame16 {
+    gap: 10px;
+    width: 288px;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+   
+  .contact-page-text12 {
+    color: var(--dl-color-default-color3);
+    height: auto;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+   
+  .contact-page-frame142 {
+    gap: 10px;
+    display: flex;
+    padding: 16px 256px 16px 24px;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background-color: rgba(57, 62, 70, 0.5);
+  }
+   
+  .contact-page-text13 {
+    color: rgba(238, 238, 238, 0.5);
+    height: auto;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+   
+  .contact-page-frame172 {
+    gap: 10px;
+    width: 600px;
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+   
+  .contact-page-text14 {
+    color: var(--dl-color-default-color3);
+    height: auto;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+   
+  .contact-page-frame143 {
+    gap: 10px;
+    display: flex;
+    padding: 16px 256px 16px 24px;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background-color: rgba(57, 62, 70, 0.5);
+  }
+   
+  .contact-page-text15 {
+    color: rgba(238, 238, 238, 0.5);
+    height: auto;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+   
+  .contact-page-frame3 {
+    gap: 10px;
+    display: flex;
+    padding: 10px 32px;
+    align-items: center;
+    border-radius: 24px;
+    background-color: var(--dl-color-default-color3);
+  }
+   
+  .contact-page-text16 {
+    color: rgba(238, 238, 238, 1);
+    height: auto;
+    font-size: 18px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5) ;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+   
+  .contact-page-send {
+    width: 24px;
+    height: 24px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5) ;
+  }
+   
+  .contact-page-text17 {
+    top: 258px;
+    left: 96px;
+    color: rgba(238, 238, 238, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 64px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: 80px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+   
+  .contact-page-text18 {
+    color: var(--dl-color-default-color3);
+  }
+   
+  .contact-page-text19 {
+    color: rgba(255, 255, 255, 1);
+  }
+   
+  .contact-page-group2372 {
+    top: 408px;
+    left: 317px;
+    width: 255.369140625px;
+    height: 348px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-group2369 {
+    top: 152.025634765625px;
+    left: 1.39501953125px;
+    width: 253.97412109375px;
+    height: 195.97434997558594px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-group2368 {
+    top: 0px;
+    left: 0px;
+    width: 253.97412109375px;
+    height: 195.97434997558594px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-rectangle345 {
+    top: 103.03072357177734px;
+    left: 117.8005142211914px;
+    width: 45px;
+    height: 93px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1.6448614597320557px;
+    border-radius: 3.515357494354248px;
+  }
+   
+  .contact-page-rectangle346 {
+    top: 129.8690643310547px;
+    left: -0.00015464762691408396px;
+    width: 45px;
+    height: 66px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1.6448614597320557px;
+    border-radius: 3.515357494354248px;
+  }
+   
+  .contact-page-rectangle347 {
+    top: 0.00006178118201205507px;
+    left: 208.94308471679688px;
+    width: 45px;
+    height: 196px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1.6448614597320557px;
+    border-radius: 3.515357494354248px;
+  }
+   
+  .contact-page-group2371 {
+    top: 0px;
+    left: 0px;
+    width: 174.39495849609375px;
+    height: 264.7915344238281px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-group62 {
+    top: 0px;
+    left: 0px;
+    width: 174.39495849609375px;
+    height: 264.7915344238281px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-group61 {
+    top: 0px;
+    left: 0px;
+    width: 174.39495849609375px;
+    height: 264.7915344238281px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-rectangle41 {
+    top: 110.00476837158203px;
+    left: 67.41899871826172px;
+    width: 61px;
+    height: 142px;
+    position: absolute;
+  }
+   
+  .contact-page-vector60 {
+    top: 235.3755340576172px;
+    left: 5.781853675842285px;
+    width: 30px;
+    height: 14px;
+    position: absolute;
+  }
+   
+  .contact-page-rectangle40 {
+    top: 131.4723663330078px;
+    left: 54.39222717285156px;
+    width: 59px;
+    height: 133px;
+    position: absolute;
+  }
+   
+  .contact-page-group2370 {
+    top: 0.000031469280656892806px;
+    left: 55.57752990722656px;
+    width: 116.66838836669922px;
+    height: 132.00100708007812px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-group58 {
+    top: 17.11305809020996px;
+    left: 12.173398971557617px;
+    width: 44.37271499633789px;
+    height: 53.144474029541016px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-group57 {
+    top: 0px;
+    left: 0px;
+    width: 44.37271499633789px;
+    height: 53.144474029541016px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-union {
+    top: 12.175378084244244px;
+    left: 5.089318782019632px;
+    width: 37px;
+    height: 40px;
+    position: absolute;
+  }
+   
+  .contact-page-vector66 {
+    top: -7.408552075503962px;
+    left: 44.996549393403825px;
+    width: 33px;
+    height: 29px;
+    position: absolute;
+  }
+   
+  .contact-page-vector53 {
+    top: 49.38008499145508px;
+    left: -0.00010726328036980703px;
+    width: 64px;
+    height: 83px;
+    position: absolute;
+  }
+   
+  .contact-page-vector54 {
+    top: 86.90287780761719px;
+    left: 13.422465324401855px;
+    width: 75px;
+    height: 54px;
+    position: absolute;
+  }
+   
+  .contact-page-vector61 {
+    top: 88.29297637939453px;
+    left: 15.039297103881836px;
+    width: 74px;
+    height: 52px;
+    position: absolute;
+  }
+   
+  .contact-page-vector59 {
+    top: 72.09522247314453px;
+    left: 87.19145202636719px;
+    width: 19px;
+    height: 23px;
+    position: absolute;
+  }
+   
+  .contact-page-vector56 {
+    top: 245.06243896484375px;
+    left: 118.79647827148438px;
+    width: 32px;
+    height: 15px;
+    position: absolute;
+  }
+   
+  .contact-page-vector186 {
+    top: 506.36029052734375px;
+    left: 118px;
+    width: 113px;
+    height: 170px;
+    position: absolute;
+  }
+   
+  .contact-page-mail {
+    top: 812.1148071289062px;
+    left: 1200px;
+    width: 58.2296142578125px;
+    height: 49.143348693847656px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-vector115 {
+    top: 0px;
+    left: 0px;
+    width: 58px;
+    height: 49px;
+    position: absolute;
+  }
+   
+  .contact-page-vector116 {
+    top: 0.69565820997218px;
+    left: 3.0891085322778054px;
+    width: 51px;
+    height: 30px;
+    position: absolute;
+  }
+   
+  .contact-page-keyboard {
+    top: 117.56062316894531px;
+    left: 820px;
+    width: 139.2030792236328px;
+    height: 63.494625091552734px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+   
+  .contact-page-vector75 {
+    top: 0px;
+    left: 0px;
+    width: 139px;
+    height: 63px;
+    position: absolute;
+  }
+   
+  .contact-page-vector76 {
+    top: 22.543866543342432px;
+    left: 20.968180794979162px;
+    width: 17px;
+    height: 28px;
+    position: absolute;
+  }
+   
+  .contact-page-vector77 {
+    top: 13.818016245005538px;
+    left: 32.43166243322605px;
+    width: 21px;
+    height: 26px;
+    position: absolute;
+  }
+   
+  .contact-page-vector78 {
+    top: 6.57184594614489px;
+    left: 45.6207894151064px;
+    width: 15px;
+    height: 24px;
+    position: absolute;
+  }
+   
+  .contact-page-vector79 {
+    top: 1.5140250894152132px;
+    left: 54.543526993915066px;
+    width: 15px;
+    height: 22px;
+    position: absolute;
+  }
+   
+  .contact-page-vector80 {
+    top: -6.037605111510629px;
+    left: 66.18957898479562px;
+    width: 12px;
+    height: 20px;
+    position: absolute;
+  }
+   
+  .contact-page-vector81 {
+    top: -13.665730370683036px;
+    left: 77.45161203551834px;
+    width: 10px;
+    height: 18px;
+    position: absolute;
+  }
+   
+  .contact-page-vector82 {
+    top: -21.446867414142048px;
+    left: 87.94214927856092px;
+    width: 9px;
+    height: 19px;
+    position: absolute;
+  }
+   
+  .contact-page-vector83 {
+    top: -33.16884384764023px;
+    left: 98.04621427097368px;
+    width: 21px;
+    height: 6px;
+    position: absolute;
+  }
+   
+  .contact-page-vector84 {
+    top: -29.453616701775786px;
+    left: 104.99286003484599px;
+    width: 20px;
+    height: 7px;
+    position: absolute;
+  }
+   
+  .contact-page-vector85 {
+    top: -24.17836876334411px;
+    left: 117.20479446372042px;
+    width: 18px;
+    height: 6px;
+    position: absolute;
+  }
+   
+  .contact-page-vector86 {
+    top: -26.09559173839034px;
+    left: 114.23107354959313px;
+    width: 21px;
+    height: 7px;
+    position: absolute;
+  }
+   
+  .contact-page-vector87 {
+    top: 10.261800513630646px;
+    left: 23.104145369478147px;
+    width: 74px;
+    height: 18px;
+    position: absolute;
+  }
+   
+  .contact-page-vector88 {
+    top: 8.455324278022005px;
+    left: 15.622073036379902px;
+    width: 79px;
+    height: 16px;
+    position: absolute;
+  }
+   
+  .contact-page-vector89 {
+    top: 9.420939553568928px;
+    left: 29.383092432013882px;
+    width: 68px;
+    height: 22px;
+    position: absolute;
+  }
+   
+  .contact-page-vector90 {
+    top: 12.428438474842324px;
+    left: 33.90519474027201px;
+    width: 68px;
+    height: 22px;
+    position: absolute;
+  }
+   
+  .contact-page-vector91 {
+    top: 15.917216397331401px;
+    left: 36.89157691670425px;
+    width: 68px;
+    height: 25px;
+    position: absolute;
+  }
+   
+  .contact-page-vector92 {
+    top: 20.07665545462146px;
+    left: 39.131821219424864px;
+    width: 71px;
+    height: 23px;
+    position: absolute;
+  }
+   
+  .contact-page-vector93 {
+    top: -26.859084028056827px;
+    left: 99.85975630225107px;
+    width: 10px;
+    height: 7px;
+    position: absolute;
+  }
+   
+  .contact-page-vector94 {
+    top: -31.735851690516256px;
+    left: 103.95648585085291px;
+    width: 10px;
+    height: 9px;
+    position: absolute;
+  }
+   
+  .contact-page-vector95 {
+    top: -36.9113513392648px;
+    left: 110.37021428887147px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+   
+  .contact-page-vector96 {
+    top: -40.899132080914px;
+    left: 114.16956764906922px;
+    width: 9px;
+    height: 9px;
+    position: absolute;
+  }
+   
+  .contact-page-vector97 {
+    top: -35.12894672674429px;
+    left: 99.2589149375608px;
+    width: 20px;
+    height: 7px;
+    position: absolute;
+  }
+   
+  .contact-page-vector98 {
+    top: -31.469089612304515px;
+    left: 101.27242516801925px;
+    width: 24px;
+    height: 9px;
+    position: absolute;
+  }
+   
+  .contact-page-vector99 {
+    top: -31.334092890122236px;
+    left: 97.82663914365423px;
+    width: 23px;
+    height: 9px;
+    position: absolute;
+  }
+   
+  .contact-page-vector100 {
+    top: -23.26842365119012px;
+    left: 117.96927742101457px;
+    width: 5px;
+    height: 5px;
+    position: absolute;
+  }
+   
+  .contact-page-vector101 {
+    top: -28.95811544618084px;
+    left: 122.74862607823775px;
+    width: 4px;
+    height: 6px;
+    position: absolute;
+  }
+   
+  .contact-page-vector102 {
+    top: -31.54265619411956px;
+    left: 127.88496880382218px;
+    width: 3px;
+    height: 6px;
+    position: absolute;
+  }
+   
+  .contact-page-vector103 {
+    top: -26.49801151198301px;
+    left: 112.64594639335633px;
+    width: 19px;
+    height: 6px;
+    position: absolute;
+  }
+   
+  .contact-page-vector104 {
+    top: -26.401212417423494px;
+    left: 112.68917824968275px;
+    width: 22px;
+    height: 12px;
+    position: absolute;
+  }
+   
+  .contact-page-vector105 {
+    top: -33.527646692380756px;
+    left: 96.83115917525538px;
+    width: 29px;
+    height: 15px;
+    position: absolute;
+  }
+   
+  .contact-page-vector106 {
+    top: 18.313081726852886px;
+    left: 26.408961364497827px;
+    width: 23px;
+    height: 25px;
+    position: absolute;
+  }
+   
+  .contact-page-vector107 {
+    top: -15.089732424030103px;
+    left: 75.05157056194025px;
+    width: 4px;
+    height: 5px;
+    position: absolute;
+  }
+   
+  .contact-page-line6 {
+    top: 1024px;
+    left: 0px;
+    width: 1440px;
+    height: 1px;
+    position: absolute;
+  }
+  
